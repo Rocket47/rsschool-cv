@@ -7,7 +7,7 @@ Age: 24
 #### Contact info:
 * email: roman.tsenov@gmail.com
 * phone number: +79524680592
-* linkedin: https://www.linkedin.com/in/roman-tsenov/
+* linkedin: [https://www.linkedin.com/in/roman-tsenov/](https://www.linkedin.com/in/roman-tsenov/)
 
 #### Summary:
 My main goal is to grow to the level of senior developer.
@@ -16,7 +16,7 @@ My main goal is to grow to the level of senior developer.
 C# programming language, .net core framework, git, vs studio, entity framework
 
 #### Code example: 
-https://github.com/Rocket47
+[github.com/Rocket47](https://github.com/Rocket47)
 
 #### Experience:
 2.5 years worked as a software engineer 
