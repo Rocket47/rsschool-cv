@@ -1,23 +1,25 @@
 First Name: Roman
 Last Name: Tsenov
+Age: 24
 
-Contact info:
-email: roman.tsenov@gmail.com
-phone number: +79524680592
-linkedin: https://www.linkedin.com/in/roman-tsenov/
+#### Contact info:
+* email: roman.tsenov@gmail.com
+* phone number: +79524680592
+* linkedin: https://www.linkedin.com/in/roman-tsenov/
 
-Summary:
+#### Summary:
 
-Skills:
+#### Skills:
 C# programming language, .net core framework
 
-Code example: 
+#### Code example: 
 https://github.com/Rocket47
 
-Experience:
+#### Experience:
 2.5 years worked as a software engineer 
 
-Education:
+#### Education:
+Nizhny Novgorod State Technical University n.a. R.E. Alekseev
 
-
-English:
+#### English:
+Pre-intermediate (A2)
